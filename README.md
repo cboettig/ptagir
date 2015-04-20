@@ -1,6 +1,6 @@
 # ptagir
 
-Interface to the [PTAGIS database](http://www.ptagis.org/)
+R interface to the [PTAGIS database](http://www.ptagis.org/)
 
 This is work in progress for an ropensci wrapper to PTAGIS database.  For more information and discussion of the proposal, please see the [ropensci wishlist ticket](https://github.com/ropensci/wishlist/issues/13) and the [issues](/issues) list of this repo.
 
